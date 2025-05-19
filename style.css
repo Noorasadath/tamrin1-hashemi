@@ -63,6 +63,7 @@ a{
     margin-top: 184px; 
     margin-right: 165px;
     margin-left: 165px;
+    padding-right: 40px;
 }
 .part4{
     display: flex;
@@ -223,7 +224,7 @@ button{
     flex-direction: row;
     margin-top: 78px;
     margin-left: 30px;
-    
+   padding-left: 30px;
 }
 #titleofsec4{
     font-size: 32px;
@@ -268,6 +269,9 @@ button{
     color: #BDBDBD;
     font-weight: 400;
     border: 1px solid #1E3240;
+    padding-left: 18px;
+    padding-top: 16px;
+    font-family: "mulish";
 }
 #inputbtn{
     display: flex ;
@@ -276,6 +280,7 @@ button{
 }
 input::placeholder{
     padding-left: 18px;
+    font-family: "mulish";
 }
 #btntext{
     margin-left: 18px;
@@ -292,7 +297,7 @@ input::placeholder{
     width: 100%;
     height: 384px;
     margin-top: 120px;
-
+    padding-left: 40px;
 }
 
 #lugar1{

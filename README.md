@@ -1,6 +1,6 @@
 # LUGAR – Real Estate Landing Page
 
-A simple real estate landing page inspired by a modern property website design. The page includes different sections for presenting properties, company information, customer feedback, and contact details.
+A simple real estate landing page inspired by a modern property website design. The page includes different sections for presenting properties, company information, customer feedback, and contact details .
 
 ## ✨ Features
 
@@ -12,7 +12,7 @@ A simple real estate landing page inspired by a modern property website design. 
 
 ## 🎯 Purpose
 
-This project was created as a **frontend practice exercise** to learn and strengthen fundamental **HTML and CSS** skills, including webpage structure, layouts, styling, typography, and image positioning.
+This project was created as a **frontend practice exercise** to learn and strengthen fundamental **HTML and CSS** skills, including webpage structure, layouts, styling, typography, and image positioning . 
 
 ## 🌐 Demo
 
